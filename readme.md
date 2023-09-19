@@ -1,6 +1,6 @@
 # Car-The-Garden 🚗
 
-**Project Head**: Yejun Jang, Sangmok Yeom
+**Team**: Yejun Jang, Sangmok Yeom
 
 Repository for the Car-The-Garden project, an autonomous robotic car designed to navigate a miniature version of the standard Korean driving test using left-first search and right-first search algorithms.
 
