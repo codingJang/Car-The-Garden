@@ -13,7 +13,6 @@ The goal of the Car-The-Garden project was to design, develop, and test an auton
 - **Dynamic Navigation**: The robot employs left-first and right-first search algorithms to determine its path and navigate the test track.
 - **Multimodal Sensing**: Equipped with sensors like RFID, IR, light, ultrasonic, and more, the robot perceives and understands its environment in real time.
 - **Communication**: Bluetooth module enables remote control and dynamic command updates.
-- **Interactive Feedback**: With LCD displays and serial communication, the robot offers valuable feedback for real-time monitoring and debugging.
 - **Emergency Handling**: A dedicated emergency mode ensures safety and rapid response to unforeseen obstacles or conditions.
 
 ## Challenges & Learnings 💡
