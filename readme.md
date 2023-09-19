@@ -36,7 +36,7 @@ The goal of the Car-The-Garden project was to design, develop, and test an auton
 
 1. Clone this repository: 
 ```
-git clone [Repository_Link]
+git clone https://github.com/codingJang/Car-The-Garden.git
 ```
 2. Set up your Arduino environment.
 3. Connect the required modules as detailed in the project documentation.
