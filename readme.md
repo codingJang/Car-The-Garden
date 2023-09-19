@@ -1,10 +1,6 @@
-Absolutely! Here's a suggested `README.md` for your "Car-The-Garden" project:
-
----
-
 # Car-The-Garden 🚗
 
-**Project Head**: [Your Name]
+**Project Head**: Yejun Jang, Sangmok Yeom
 
 Repository for the Car-The-Garden project, an autonomous robotic car designed to navigate a miniature version of the standard Korean driving test using left-first search and right-first search algorithms.
 
@@ -24,7 +20,7 @@ The goal of the Car-The-Garden project was to design, develop, and test an auton
 
 - **Imperfect Hardware**: Dealing with real-world imperfections of sensors and hardware was a challenge, teaching the importance of calibration, error handling, and robust algorithm design.
 - **Rule-Based Algorithms**: Implementing rule-based algorithms was essential for the car to make smart decisions autonomously, adapting its behavior based on sensor inputs and predefined rules.
-- **Modularity in Code**: With over 15+ Arduino modules integrated, ensuring a modular and clean codebase was pivotal for seamless integration and future scalability.
+- **Modularity in Code**: With multiple Arduino modules integrated, ensuring a modular and clean codebase was pivotal for seamless integration and future scalability.
 
 ## Tools & Technologies 🛠
 
@@ -35,8 +31,6 @@ The goal of the Car-The-Garden project was to design, develop, and test an auton
   - IR Sensor
   - Light Sensor
   - Ultrasonic Sensor
-  - LCD Display
-  - And many more...
 
 ## Getting Started 🚀
 
@@ -50,12 +44,8 @@ git clone [Repository_Link]
 
 ## Credits & Acknowledgements 👏
 
-Special thanks to the team members, mentors, and everyone who contributed to the success of this project.
+Special thanks to the TAs of Creative Engineering Design course, for providing the miniature driving test map and missions.
 
 ## License 📄
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
----
-
-*Note*: Please replace `[Your Name]` and `[Repository_Link]` with your actual name and the GitHub link to your repository respectively. You can also modify, add or remove any section based on the details or specifics of your project.
