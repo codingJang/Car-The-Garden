@@ -32,16 +32,6 @@ The goal of the Car-The-Garden project was to design, develop, and test an auton
   - Light Sensor
   - Ultrasonic Sensor
 
-## Getting Started 🚀
-
-1. Clone this repository: 
-```
-git clone https://github.com/codingJang/Car-The-Garden.git
-```
-2. Set up your Arduino environment.
-3. Connect the required modules as detailed in the project documentation.
-4. Upload the code to your Arduino board and observe the magic of Car-The-Garden!
-
 ## Credits & Acknowledgements 👏
 
 Special thanks to the TAs of Creative Engineering Design course, for providing the miniature driving test map and missions.
